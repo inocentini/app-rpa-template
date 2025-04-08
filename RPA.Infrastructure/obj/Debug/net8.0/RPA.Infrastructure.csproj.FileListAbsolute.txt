@@ -1,0 +1,17 @@
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Infrastructure.deps.json
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Infrastructure.runtimeconfig.json
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Infrastructure.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Infrastructure.pdb
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Core.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\bin\Debug\net8.0\RPA.Core.pdb
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.AssemblyInfo.cs
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infr.33066F54.Up2Date
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\refint\RPA.Infrastructure.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.pdb
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\RPA.Infrastructure.genruntimeconfig.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Infrastructure\obj\Debug\net8.0\ref\RPA.Infrastructure.dll

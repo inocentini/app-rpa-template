@@ -1,0 +1,11 @@
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\bin\Debug\net9.0\RPA.Core.deps.json
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\bin\Debug\net9.0\RPA.Core.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\bin\Debug\net9.0\RPA.Core.pdb
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.AssemblyInfoInputs.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.AssemblyInfo.cs
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\refint\RPA.Core.dll
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\RPA.Core.pdb
+C:\Users\Inocentini\Documents\Projetos\TemplateRPA\Template\RPA.Core\obj\Debug\net9.0\ref\RPA.Core.dll
